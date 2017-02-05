@@ -1,2 +1,2 @@
 # SpectrumAnalysis
-# 基于图像分析的蓝光检测的Android手机APP
+# 使用手机摄像头进行光源的蓝光溢出检测的APP
