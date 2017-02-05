@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+             android:stretchColumns="1">
+
+    <TableRow>
+        <TextView
+            android:text="图像采样点间隔（1~100，缺省20。数值越大，分析越快）"
+            android:layout_height="wrap_content"
+            android:layout_span="2"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="行间隔："
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/sampling_interval_x"
+            android:layout_height="wrap_content"
+            android:hint="20" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="列间隔："
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/sampling_interval_y"
+            android:layout_height="wrap_content"
+            android:hint="20" />
+    </TableRow>
+
+    <TableRow>
+        <CheckBox
+            android:id="@+id/showonly_bluewave"
+            android:text="仅显示蓝光波段的光谱"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_span="2"
+            android:checked="true"/>
+    </TableRow>
+
+    <TableRow>
+        <Button
+            android:id="@+id/ok"
+            android:layout_height="wrap_content"
+            android:layout_span="2"
+            android:text="确定" />
+    </TableRow>
+</TableLayout>

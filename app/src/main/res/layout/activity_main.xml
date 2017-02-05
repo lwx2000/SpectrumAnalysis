@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.github.lwx2000.spectrumanalysis.MainActivity"
+    android:background="#FF000000"
+    android:layout_margin="0dip"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_margin="0dip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/cover"
+        />
+
+    <LinearLayout
+        android:layout_margin="0dip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <Button
+            android:layout_height="wrap_content"
+            android:id="@+id/detect"
+            android:text="1.拍照测光"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"/>
+        <Button
+            android:layout_height="wrap_content"
+            android:id="@+id/analyze"
+            android:text="2.光谱分析"
+            android:icon="@mipmap/ic_launcher"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"/>
+        <Button
+            android:layout_height="wrap_content"
+            android:id="@+id/report"
+            android:text="3.数据报告"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,3109 @@
+<?xml version="1.0"?>
+<!-- 10-deg XYZ CMFs transformed from the CIE (2006) 2-deg LMS cone fundamentals -->
+
+<Root Database="C:\CVRLab\Research\final CIE XYZ\lin2012xyz10e_1_7sf.csv">
+  <Structure>
+    <Field>
+   <Field_Name>Field1</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field2</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field3</Field_Name>
+    </Field>
+    <Field>
+   <Field_Name>Field4</Field_Name>
+    </Field>
+  </Structure>
+
+  <Records>
+   <Record>
+     <Field1>390</Field1>
+     <Field2>2.952420E-03</Field2>
+     <Field3>4.076779E-04</Field3>
+     <Field4>1.318752E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>391</Field1>
+     <Field2>3.577275E-03</Field2>
+     <Field3>4.977769E-04</Field3>
+     <Field4>1.597879E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>392</Field1>
+     <Field2>4.332146E-03</Field2>
+     <Field3>6.064754E-04</Field3>
+     <Field4>1.935758E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>393</Field1>
+     <Field2>5.241609E-03</Field2>
+     <Field3>7.370040E-04</Field3>
+     <Field4>2.343758E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>394</Field1>
+     <Field2>6.333902E-03</Field2>
+     <Field3>8.929388E-04</Field3>
+     <Field4>2.835021E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>395</Field1>
+     <Field2>7.641137E-03</Field2>
+     <Field3>1.078166E-03</Field3>
+     <Field4>3.424588E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>396</Field1>
+     <Field2>9.199401E-03</Field2>
+     <Field3>1.296816E-03</Field3>
+     <Field4>4.129467E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>397</Field1>
+     <Field2>1.104869E-02</Field2>
+     <Field3>1.553159E-03</Field3>
+     <Field4>4.968641E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>398</Field1>
+     <Field2>1.323262E-02</Field2>
+     <Field3>1.851463E-03</Field3>
+     <Field4>5.962964E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>399</Field1>
+     <Field2>1.579791E-02</Field2>
+     <Field3>2.195795E-03</Field3>
+     <Field4>7.134926E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>400</Field1>
+     <Field2>1.879338E-02</Field2>
+     <Field3>2.589775E-03</Field3>
+     <Field4>8.508254E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>401</Field1>
+     <Field2>2.226949E-02</Field2>
+     <Field3>3.036799E-03</Field3>
+     <Field4>1.010753E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>402</Field1>
+     <Field2>2.627978E-02</Field2>
+     <Field3>3.541926E-03</Field3>
+     <Field4>1.195838E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>403</Field1>
+     <Field2>3.087862E-02</Field2>
+     <Field3>4.111422E-03</Field3>
+     <Field4>1.408647E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>404</Field1>
+     <Field2>3.611890E-02</Field2>
+     <Field3>4.752618E-03</Field3>
+     <Field4>1.651644E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>405</Field1>
+     <Field2>4.204986E-02</Field2>
+     <Field3>5.474207E-03</Field3>
+     <Field4>1.927065E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>406</Field1>
+     <Field2>4.871256E-02</Field2>
+     <Field3>6.285034E-03</Field3>
+     <Field4>2.236782E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>407</Field1>
+     <Field2>5.612868E-02</Field2>
+     <Field3>7.188068E-03</Field3>
+     <Field4>2.582109E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>408</Field1>
+     <Field2>6.429866E-02</Field2>
+     <Field3>8.181786E-03</Field3>
+     <Field4>2.963632E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>409</Field1>
+     <Field2>7.319818E-02</Field2>
+     <Field3>9.260417E-03</Field3>
+     <Field4>3.381018E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>410</Field1>
+     <Field2>8.277331E-02</Field2>
+     <Field3>1.041303E-02</Field3>
+     <Field4>3.832822E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>411</Field1>
+     <Field2>9.295327E-02</Field2>
+     <Field3>1.162642E-02</Field3>
+     <Field4>4.316884E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>412</Field1>
+     <Field2>1.037137E-01</Field2>
+     <Field3>1.289884E-02</Field3>
+     <Field4>4.832440E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>413</Field1>
+     <Field2>1.150520E-01</Field2>
+     <Field3>1.423442E-02</Field3>
+     <Field4>5.379345E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>414</Field1>
+     <Field2>1.269771E-01</Field2>
+     <Field3>1.564080E-02</Field3>
+     <Field4>5.957740E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>415</Field1>
+     <Field2>1.395127E-01</Field2>
+     <Field3>1.712968E-02</Field3>
+     <Field4>6.568187E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>416</Field1>
+     <Field2>1.526661E-01</Field2>
+     <Field3>1.871265E-02</Field3>
+     <Field4>7.210459E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>417</Field1>
+     <Field2>1.663054E-01</Field2>
+     <Field3>2.038394E-02</Field3>
+     <Field4>7.878635E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>418</Field1>
+     <Field2>1.802197E-01</Field2>
+     <Field3>2.212935E-02</Field3>
+     <Field4>8.563391E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>419</Field1>
+     <Field2>1.941448E-01</Field2>
+     <Field3>2.392985E-02</Field3>
+     <Field4>9.253017E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>420</Field1>
+     <Field2>2.077647E-01</Field2>
+     <Field3>2.576133E-02</Field3>
+     <Field4>9.933444E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>421</Field1>
+     <Field2>2.207911E-01</Field2>
+     <Field3>2.760156E-02</Field3>
+     <Field4>1.059178E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>422</Field1>
+     <Field2>2.332355E-01</Field2>
+     <Field3>2.945513E-02</Field3>
+     <Field4>1.122832E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>423</Field1>
+     <Field2>2.452462E-01</Field2>
+     <Field3>3.133884E-02</Field3>
+     <Field4>1.184947E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>424</Field1>
+     <Field2>2.570397E-01</Field2>
+     <Field3>3.327575E-02</Field3>
+     <Field4>1.246476E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>425</Field1>
+     <Field2>2.688989E-01</Field2>
+     <Field3>3.529554E-02</Field3>
+     <Field4>1.308674E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>426</Field1>
+     <Field2>2.810677E-01</Field2>
+     <Field3>3.742705E-02</Field3>
+     <Field4>1.372628E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>427</Field1>
+     <Field2>2.933967E-01</Field2>
+     <Field3>3.967137E-02</Field3>
+     <Field4>1.437661E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>428</Field1>
+     <Field2>3.055933E-01</Field2>
+     <Field3>4.201998E-02</Field3>
+     <Field4>1.502449E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>429</Field1>
+     <Field2>3.173165E-01</Field2>
+     <Field3>4.446166E-02</Field3>
+     <Field4>1.565456E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>430</Field1>
+     <Field2>3.281798E-01</Field2>
+     <Field3>4.698226E-02</Field3>
+     <Field4>1.624940E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>431</Field1>
+     <Field2>3.378678E-01</Field2>
+     <Field3>4.956742E-02</Field3>
+     <Field4>1.679488E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>432</Field1>
+     <Field2>3.465097E-01</Field2>
+     <Field3>5.221219E-02</Field3>
+     <Field4>1.729668E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>433</Field1>
+     <Field2>3.543953E-01</Field2>
+     <Field3>5.491387E-02</Field3>
+     <Field4>1.776755E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>434</Field1>
+     <Field2>3.618655E-01</Field2>
+     <Field3>5.766919E-02</Field3>
+     <Field4>1.822228E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>435</Field1>
+     <Field2>3.693084E-01</Field2>
+     <Field3>6.047429E-02</Field3>
+     <Field4>1.867751E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>436</Field1>
+     <Field2>3.770107E-01</Field2>
+     <Field3>6.332195E-02</Field3>
+     <Field4>1.914504E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>437</Field1>
+     <Field2>3.846850E-01</Field2>
+     <Field3>6.619271E-02</Field3>
+     <Field4>1.961055E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>438</Field1>
+     <Field2>3.918591E-01</Field2>
+     <Field3>6.906185E-02</Field3>
+     <Field4>2.005136E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>439</Field1>
+     <Field2>3.980192E-01</Field2>
+     <Field3>7.190190E-02</Field3>
+     <Field4>2.044296E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>440</Field1>
+     <Field2>4.026189E-01</Field2>
+     <Field3>7.468288E-02</Field3>
+     <Field4>2.075946E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>441</Field1>
+     <Field2>4.052637E-01</Field2>
+     <Field3>7.738452E-02</Field3>
+     <Field4>2.098231E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>442</Field1>
+     <Field2>4.062482E-01</Field2>
+     <Field3>8.003601E-02</Field3>
+     <Field4>2.112591E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>443</Field1>
+     <Field2>4.060660E-01</Field2>
+     <Field3>8.268524E-02</Field3>
+     <Field4>2.121427E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>444</Field1>
+     <Field2>4.052283E-01</Field2>
+     <Field3>8.538745E-02</Field3>
+     <Field4>2.127239E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>445</Field1>
+     <Field2>4.042529E-01</Field2>
+     <Field3>8.820537E-02</Field3>
+     <Field4>2.132574E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>446</Field1>
+     <Field2>4.034808E-01</Field2>
+     <Field3>9.118925E-02</Field3>
+     <Field4>2.139093E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>447</Field1>
+     <Field2>4.025362E-01</Field2>
+     <Field3>9.431041E-02</Field3>
+     <Field4>2.144815E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>448</Field1>
+     <Field2>4.008675E-01</Field2>
+     <Field3>9.751346E-02</Field3>
+     <Field4>2.146832E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>449</Field1>
+     <Field2>3.979327E-01</Field2>
+     <Field3>1.007349E-01</Field3>
+     <Field4>2.142250E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>450</Field1>
+     <Field2>3.932139E-01</Field2>
+     <Field3>1.039030E-01</Field3>
+     <Field4>2.128264E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>451</Field1>
+     <Field2>3.864108E-01</Field2>
+     <Field3>1.069639E-01</Field3>
+     <Field4>2.103205E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>452</Field1>
+     <Field2>3.779513E-01</Field2>
+     <Field3>1.099676E-01</Field3>
+     <Field4>2.069388E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>453</Field1>
+     <Field2>3.684176E-01</Field2>
+     <Field3>1.129992E-01</Field3>
+     <Field4>2.030030E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>454</Field1>
+     <Field2>3.583473E-01</Field2>
+     <Field3>1.161541E-01</Field3>
+     <Field4>1.988178E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>455</Field1>
+     <Field2>3.482214E-01</Field2>
+     <Field3>1.195389E-01</Field3>
+     <Field4>1.946651E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>456</Field1>
+     <Field2>3.383830E-01</Field2>
+     <Field3>1.232503E-01</Field3>
+     <Field4>1.907521E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>457</Field1>
+     <Field2>3.288309E-01</Field2>
+     <Field3>1.273047E-01</Field3>
+     <Field4>1.870689E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>458</Field1>
+     <Field2>3.194977E-01</Field2>
+     <Field3>1.316964E-01</Field3>
+     <Field4>1.835578E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>459</Field1>
+     <Field2>3.103345E-01</Field2>
+     <Field3>1.364178E-01</Field3>
+     <Field4>1.801657E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>460</Field1>
+     <Field2>3.013112E-01</Field2>
+     <Field3>1.414586E-01</Field3>
+     <Field4>1.768440E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>461</Field1>
+     <Field2>2.923754E-01</Field2>
+     <Field3>1.468003E-01</Field3>
+     <Field4>1.735338E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>462</Field1>
+     <Field2>2.833273E-01</Field2>
+     <Field3>1.524002E-01</Field3>
+     <Field4>1.701254E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>463</Field1>
+     <Field2>2.739463E-01</Field2>
+     <Field3>1.582021E-01</Field3>
+     <Field4>1.665053E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>464</Field1>
+     <Field2>2.640352E-01</Field2>
+     <Field3>1.641400E-01</Field3>
+     <Field4>1.625712E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>465</Field1>
+     <Field2>2.534221E-01</Field2>
+     <Field3>1.701373E-01</Field3>
+     <Field4>1.582342E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>466</Field1>
+     <Field2>2.420135E-01</Field2>
+     <Field3>1.761233E-01</Field3>
+     <Field4>1.534439E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>467</Field1>
+     <Field2>2.299346E-01</Field2>
+     <Field3>1.820896E-01</Field3>
+     <Field4>1.482544E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>468</Field1>
+     <Field2>2.173617E-01</Field2>
+     <Field3>1.880463E-01</Field3>
+     <Field4>1.427438E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>469</Field1>
+     <Field2>2.044672E-01</Field2>
+     <Field3>1.940065E-01</Field3>
+     <Field4>1.369876E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>470</Field1>
+     <Field2>1.914176E-01</Field2>
+     <Field3>1.999859E-01</Field3>
+     <Field4>1.310576E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>471</Field1>
+     <Field2>1.783672E-01</Field2>
+     <Field3>2.060054E-01</Field3>
+     <Field4>1.250226E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>472</Field1>
+     <Field2>1.654407E-01</Field2>
+     <Field3>2.120981E-01</Field3>
+     <Field4>1.189511E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>473</Field1>
+     <Field2>1.527391E-01</Field2>
+     <Field3>2.183041E-01</Field3>
+     <Field4>1.129050E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>474</Field1>
+     <Field2>1.403439E-01</Field2>
+     <Field3>2.246686E-01</Field3>
+     <Field4>1.069379E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>475</Field1>
+     <Field2>1.283167E-01</Field2>
+     <Field3>2.312426E-01</Field3>
+     <Field4>1.010952E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>476</Field1>
+     <Field2>1.167124E-01</Field2>
+     <Field3>2.380741E-01</Field3>
+     <Field4>9.541809E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>477</Field1>
+     <Field2>1.056121E-01</Field2>
+     <Field3>2.451798E-01</Field3>
+     <Field4>8.995253E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>478</Field1>
+     <Field2>9.508569E-02</Field2>
+     <Field3>2.525682E-01</Field3>
+     <Field4>8.473720E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>479</Field1>
+     <Field2>8.518206E-02</Field2>
+     <Field3>2.602479E-01</Field3>
+     <Field4>7.980093E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>480</Field1>
+     <Field2>7.593120E-02</Field2>
+     <Field3>2.682271E-01</Field3>
+     <Field4>7.516389E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>481</Field1>
+     <Field2>6.733159E-02</Field2>
+     <Field3>2.765005E-01</Field3>
+     <Field4>7.082645E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>482</Field1>
+     <Field2>5.932018E-02</Field2>
+     <Field3>2.850035E-01</Field3>
+     <Field4>6.673867E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>483</Field1>
+     <Field2>5.184106E-02</Field2>
+     <Field3>2.936475E-01</Field3>
+     <Field4>6.284798E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>484</Field1>
+     <Field2>4.486119E-02</Field2>
+     <Field3>3.023319E-01</Field3>
+     <Field4>5.911174E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>485</Field1>
+     <Field2>3.836770E-02</Field2>
+     <Field3>3.109438E-01</Field3>
+     <Field4>5.549619E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>486</Field1>
+     <Field2>3.237296E-02</Field2>
+     <Field3>3.194105E-01</Field3>
+     <Field4>5.198843E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>487</Field1>
+     <Field2>2.692095E-02</Field2>
+     <Field3>3.278683E-01</Field3>
+     <Field4>4.862772E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>488</Field1>
+     <Field2>2.204070E-02</Field2>
+     <Field3>3.365263E-01</Field3>
+     <Field4>4.545497E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>489</Field1>
+     <Field2>1.773951E-02</Field2>
+     <Field3>3.456176E-01</Field3>
+     <Field4>4.249955E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>490</Field1>
+     <Field2>1.400745E-02</Field2>
+     <Field3>3.554018E-01</Field3>
+     <Field4>3.978114E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>491</Field1>
+     <Field2>1.082291E-02</Field2>
+     <Field3>3.660893E-01</Field3>
+     <Field4>3.730218E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>492</Field1>
+     <Field2>8.168996E-03</Field2>
+     <Field3>3.775857E-01</Field3>
+     <Field4>3.502618E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>493</Field1>
+     <Field2>6.044623E-03</Field2>
+     <Field3>3.896960E-01</Field3>
+     <Field4>3.291407E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>494</Field1>
+     <Field2>4.462638E-03</Field2>
+     <Field3>4.021947E-01</Field3>
+     <Field4>3.093356E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>495</Field1>
+     <Field2>3.446810E-03</Field2>
+     <Field3>4.148227E-01</Field3>
+     <Field4>2.905816E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>496</Field1>
+     <Field2>3.009513E-03</Field2>
+     <Field3>4.273539E-01</Field3>
+     <Field4>2.726773E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>497</Field1>
+     <Field2>3.090744E-03</Field2>
+     <Field3>4.398206E-01</Field3>
+     <Field4>2.555143E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>498</Field1>
+     <Field2>3.611221E-03</Field2>
+     <Field3>4.523360E-01</Field3>
+     <Field4>2.390188E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>499</Field1>
+     <Field2>4.491435E-03</Field2>
+     <Field3>4.650298E-01</Field3>
+     <Field4>2.231335E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>500</Field1>
+     <Field2>5.652072E-03</Field2>
+     <Field3>4.780482E-01</Field3>
+     <Field4>2.078158E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>501</Field1>
+     <Field2>7.035322E-03</Field2>
+     <Field3>4.915173E-01</Field3>
+     <Field4>1.930407E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>502</Field1>
+     <Field2>8.669631E-03</Field2>
+     <Field3>5.054224E-01</Field3>
+     <Field4>1.788089E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>503</Field1>
+     <Field2>1.060755E-02</Field2>
+     <Field3>5.197057E-01</Field3>
+     <Field4>1.651287E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>504</Field1>
+     <Field2>1.290468E-02</Field2>
+     <Field3>5.343012E-01</Field3>
+     <Field4>1.520103E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>505</Field1>
+     <Field2>1.561956E-02</Field2>
+     <Field3>5.491344E-01</Field3>
+     <Field4>1.394643E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>506</Field1>
+     <Field2>1.881640E-02</Field2>
+     <Field3>5.641302E-01</Field3>
+     <Field4>1.275353E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>507</Field1>
+     <Field2>2.256923E-02</Field2>
+     <Field3>5.792416E-01</Field3>
+     <Field4>1.163771E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>508</Field1>
+     <Field2>2.694456E-02</Field2>
+     <Field3>5.944264E-01</Field3>
+     <Field4>1.061161E-01</Field4>
+
+   </Record>
+   <Record>
+     <Field1>509</Field1>
+     <Field2>3.199910E-02</Field2>
+     <Field3>6.096388E-01</Field3>
+     <Field4>9.682266E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>510</Field1>
+     <Field2>3.778185E-02</Field2>
+     <Field3>6.248296E-01</Field3>
+     <Field4>8.852389E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>511</Field1>
+     <Field2>4.430635E-02</Field2>
+     <Field3>6.399656E-01</Field3>
+     <Field4>8.118263E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>512</Field1>
+     <Field2>5.146516E-02</Field2>
+     <Field3>6.550943E-01</Field3>
+     <Field4>7.463132E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>513</Field1>
+     <Field2>5.912224E-02</Field2>
+     <Field3>6.702903E-01</Field3>
+     <Field4>6.870644E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>514</Field1>
+     <Field2>6.714220E-02</Field2>
+     <Field3>6.856375E-01</Field3>
+     <Field4>6.327834E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>515</Field1>
+     <Field2>7.538941E-02</Field2>
+     <Field3>7.012292E-01</Field3>
+     <Field4>5.824484E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>516</Field1>
+     <Field2>8.376697E-02</Field2>
+     <Field3>7.171103E-01</Field3>
+     <Field4>5.353812E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>517</Field1>
+     <Field2>9.233581E-02</Field2>
+     <Field3>7.330917E-01</Field3>
+     <Field4>4.914863E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>518</Field1>
+     <Field2>1.011940E-01</Field2>
+     <Field3>7.489041E-01</Field3>
+     <Field4>4.507511E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>519</Field1>
+     <Field2>1.104362E-01</Field2>
+     <Field3>7.642530E-01</Field3>
+     <Field4>4.131175E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>520</Field1>
+     <Field2>1.201511E-01</Field2>
+     <Field3>7.788199E-01</Field3>
+     <Field4>3.784916E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>521</Field1>
+     <Field2>1.303960E-01</Field2>
+     <Field3>7.923410E-01</Field3>
+     <Field4>3.467234E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>522</Field1>
+     <Field2>1.411310E-01</Field2>
+     <Field3>8.048510E-01</Field3>
+     <Field4>3.175471E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>523</Field1>
+     <Field2>1.522944E-01</Field2>
+     <Field3>8.164747E-01</Field3>
+     <Field4>2.907029E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>524</Field1>
+     <Field2>1.638288E-01</Field2>
+     <Field3>8.273520E-01</Field3>
+     <Field4>2.659651E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>525</Field1>
+     <Field2>1.756832E-01</Field2>
+     <Field3>8.376358E-01</Field3>
+     <Field4>2.431375E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>526</Field1>
+     <Field2>1.878114E-01</Field2>
+     <Field3>8.474653E-01</Field3>
+     <Field4>2.220677E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>527</Field1>
+     <Field2>2.001621E-01</Field2>
+     <Field3>8.568868E-01</Field3>
+     <Field4>2.026852E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>528</Field1>
+     <Field2>2.126822E-01</Field2>
+     <Field3>8.659242E-01</Field3>
+     <Field4>1.849246E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>529</Field1>
+     <Field2>2.253199E-01</Field2>
+     <Field3>8.746041E-01</Field3>
+     <Field4>1.687084E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>530</Field1>
+     <Field2>2.380254E-01</Field2>
+     <Field3>8.829552E-01</Field3>
+     <Field4>1.539505E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>531</Field1>
+     <Field2>2.507787E-01</Field2>
+     <Field3>8.910274E-01</Field3>
+     <Field4>1.405450E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>532</Field1>
+     <Field2>2.636778E-01</Field2>
+     <Field3>8.989495E-01</Field3>
+     <Field4>1.283354E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>533</Field1>
+     <Field2>2.768607E-01</Field2>
+     <Field3>9.068753E-01</Field3>
+     <Field4>1.171754E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>534</Field1>
+     <Field2>2.904792E-01</Field2>
+     <Field3>9.149652E-01</Field3>
+     <Field4>1.069415E-02</Field4>
+
+   </Record>
+   <Record>
+     <Field1>535</Field1>
+     <Field2>3.046991E-01</Field2>
+     <Field3>9.233858E-01</Field3>
+     <Field4>9.753000E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>536</Field1>
+     <Field2>3.196485E-01</Field2>
+     <Field3>9.322325E-01</Field3>
+     <Field4>8.886096E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>537</Field1>
+     <Field2>3.352447E-01</Field2>
+     <Field3>9.412862E-01</Field3>
+     <Field4>8.089323E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>538</Field1>
+     <Field2>3.513290E-01</Field2>
+     <Field3>9.502378E-01</Field3>
+     <Field4>7.359131E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>539</Field1>
+     <Field2>3.677148E-01</Field2>
+     <Field3>9.587647E-01</Field3>
+     <Field4>6.691736E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>540</Field1>
+     <Field2>3.841856E-01</Field2>
+     <Field3>9.665325E-01</Field3>
+     <Field4>6.083223E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>541</Field1>
+     <Field2>4.005312E-01</Field2>
+     <Field3>9.732504E-01</Field3>
+     <Field4>5.529423E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>542</Field1>
+     <Field2>4.166669E-01</Field2>
+     <Field3>9.788415E-01</Field3>
+     <Field4>5.025504E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>543</Field1>
+     <Field2>4.325420E-01</Field2>
+     <Field3>9.832867E-01</Field3>
+     <Field4>4.566879E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>544</Field1>
+     <Field2>4.481063E-01</Field2>
+     <Field3>9.865720E-01</Field3>
+     <Field4>4.149405E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>545</Field1>
+     <Field2>4.633109E-01</Field2>
+     <Field3>9.886887E-01</Field3>
+     <Field4>3.769336E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>546</Field1>
+     <Field2>4.781440E-01</Field2>
+     <Field3>9.897056E-01</Field3>
+     <Field4>3.423302E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>547</Field1>
+     <Field2>4.927483E-01</Field2>
+     <Field3>9.899849E-01</Field3>
+     <Field4>3.108313E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>548</Field1>
+     <Field2>5.073315E-01</Field2>
+     <Field3>9.899624E-01</Field3>
+     <Field4>2.821650E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>549</Field1>
+     <Field2>5.221315E-01</Field2>
+     <Field3>9.900731E-01</Field3>
+     <Field4>2.560830E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>550</Field1>
+     <Field2>5.374170E-01</Field2>
+     <Field3>9.907500E-01</Field3>
+     <Field4>2.323578E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>551</Field1>
+     <Field2>5.534217E-01</Field2>
+     <Field3>9.922826E-01</Field3>
+     <Field4>2.107847E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>552</Field1>
+     <Field2>5.701242E-01</Field2>
+     <Field3>9.943837E-01</Field3>
+     <Field4>1.911867E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>553</Field1>
+     <Field2>5.874093E-01</Field2>
+     <Field3>9.966221E-01</Field3>
+     <Field4>1.734006E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>554</Field1>
+     <Field2>6.051269E-01</Field2>
+     <Field3>9.985649E-01</Field3>
+     <Field4>1.572736E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>555</Field1>
+     <Field2>6.230892E-01</Field2>
+     <Field3>9.997775E-01</Field3>
+     <Field4>1.426627E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>556</Field1>
+     <Field2>6.410999E-01</Field2>
+     <Field3>9.999440E-01</Field3>
+     <Field4>1.294325E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>557</Field1>
+     <Field2>6.590659E-01</Field2>
+     <Field3>9.992200E-01</Field3>
+     <Field4>1.174475E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>558</Field1>
+     <Field2>6.769436E-01</Field2>
+     <Field3>9.978793E-01</Field3>
+     <Field4>1.065842E-03</Field4>
+
+   </Record>
+   <Record>
+     <Field1>559</Field1>
+     <Field2>6.947143E-01</Field2>
+     <Field3>9.961934E-01</Field3>
+     <Field4>9.673215E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>560</Field1>
+     <Field2>7.123849E-01</Field2>
+     <Field3>9.944304E-01</Field3>
+     <Field4>8.779264E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>561</Field1>
+     <Field2>7.299978E-01</Field2>
+     <Field3>9.927831E-01</Field3>
+     <Field4>7.967847E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>562</Field1>
+     <Field2>7.476478E-01</Field2>
+     <Field3>9.911578E-01</Field3>
+     <Field4>7.231502E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>563</Field1>
+     <Field2>7.654250E-01</Field2>
+     <Field3>9.893925E-01</Field3>
+     <Field4>6.563501E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>564</Field1>
+     <Field2>7.834009E-01</Field2>
+     <Field3>9.873288E-01</Field3>
+     <Field4>5.957678E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>565</Field1>
+     <Field2>8.016277E-01</Field2>
+     <Field3>9.848127E-01</Field3>
+     <Field4>5.408385E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>566</Field1>
+     <Field2>8.201041E-01</Field2>
+     <Field3>9.817253E-01</Field3>
+     <Field4>4.910441E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>567</Field1>
+     <Field2>8.386843E-01</Field2>
+     <Field3>9.780714E-01</Field3>
+     <Field4>4.459046E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>568</Field1>
+     <Field2>8.571936E-01</Field2>
+     <Field3>9.738860E-01</Field3>
+     <Field4>4.049826E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>569</Field1>
+     <Field2>8.754652E-01</Field2>
+     <Field3>9.692028E-01</Field3>
+     <Field4>3.678818E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>570</Field1>
+     <Field2>8.933408E-01</Field2>
+     <Field3>9.640545E-01</Field3>
+     <Field4>3.342429E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>571</Field1>
+     <Field2>9.106772E-01</Field2>
+     <Field3>9.584409E-01</Field3>
+     <Field4>3.037407E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>572</Field1>
+     <Field2>9.273554E-01</Field2>
+     <Field3>9.522379E-01</Field3>
+     <Field4>2.760809E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>573</Field1>
+     <Field2>9.432502E-01</Field2>
+     <Field3>9.452968E-01</Field3>
+     <Field4>2.509970E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>574</Field1>
+     <Field2>9.582244E-01</Field2>
+     <Field3>9.374773E-01</Field3>
+     <Field4>2.282474E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>575</Field1>
+     <Field2>9.721304E-01</Field2>
+     <Field3>9.286495E-01</Field3>
+     <Field4>2.076129E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>576</Field1>
+     <Field2>9.849237E-01</Field2>
+     <Field3>9.187953E-01</Field3>
+     <Field4>1.888948E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>577</Field1>
+     <Field2>9.970067E-01</Field2>
+     <Field3>9.083014E-01</Field3>
+     <Field4>1.719127E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>578</Field1>
+     <Field2>1.008907E+00</Field2>
+     <Field3>8.976352E-01</Field3>
+     <Field4>1.565030E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>579</Field1>
+     <Field2>1.021163E+00</Field2>
+     <Field3>8.872401E-01</Field3>
+     <Field4>1.425177E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>580</Field1>
+     <Field2>1.034327E+00</Field2>
+     <Field3>8.775360E-01</Field3>
+     <Field4>1.298230E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>581</Field1>
+     <Field2>1.048753E+00</Field2>
+     <Field3>8.687920E-01</Field3>
+     <Field4>1.182974E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>582</Field1>
+     <Field2>1.063937E+00</Field2>
+     <Field3>8.607474E-01</Field3>
+     <Field4>1.078310E-04</Field4>
+
+   </Record>
+   <Record>
+     <Field1>583</Field1>
+     <Field2>1.079166E+00</Field2>
+     <Field3>8.530233E-01</Field3>
+     <Field4>9.832455E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>584</Field1>
+     <Field2>1.093723E+00</Field2>
+     <Field3>8.452535E-01</Field3>
+     <Field4>8.968787E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>585</Field1>
+     <Field2>1.106886E+00</Field2>
+     <Field3>8.370838E-01</Field3>
+     <Field4>8.183954E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>586</Field1>
+     <Field2>1.118106E+00</Field2>
+     <Field3>8.282409E-01</Field3>
+     <Field4>7.470582E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>587</Field1>
+     <Field2>1.127493E+00</Field2>
+     <Field3>8.187320E-01</Field3>
+     <Field4>6.821991E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>588</Field1>
+     <Field2>1.135317E+00</Field2>
+     <Field3>8.086352E-01</Field3>
+     <Field4>6.232132E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>589</Field1>
+     <Field2>1.141838E+00</Field2>
+     <Field3>7.980296E-01</Field3>
+     <Field4>5.695534E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>590</Field1>
+     <Field2>1.147304E+00</Field2>
+     <Field3>7.869950E-01</Field3>
+     <Field4>5.207245E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>591</Field1>
+     <Field2>1.151897E+00</Field2>
+     <Field3>7.756040E-01</Field3>
+     <Field4>4.762781E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>592</Field1>
+     <Field2>1.155582E+00</Field2>
+     <Field3>7.638996E-01</Field3>
+     <Field4>4.358082E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>593</Field1>
+     <Field2>1.158284E+00</Field2>
+     <Field3>7.519157E-01</Field3>
+     <Field4>3.989468E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>594</Field1>
+     <Field2>1.159934E+00</Field2>
+     <Field3>7.396832E-01</Field3>
+     <Field4>3.653612E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>595</Field1>
+     <Field2>1.160477E+00</Field2>
+     <Field3>7.272309E-01</Field3>
+     <Field4>3.347499E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>596</Field1>
+     <Field2>1.159890E+00</Field2>
+     <Field3>7.145878E-01</Field3>
+     <Field4>3.068400E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>597</Field1>
+     <Field2>1.158259E+00</Field2>
+     <Field3>7.017926E-01</Field3>
+     <Field4>2.813839E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>598</Field1>
+     <Field2>1.155692E+00</Field2>
+     <Field3>6.888866E-01</Field3>
+     <Field4>2.581574E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>599</Field1>
+     <Field2>1.152293E+00</Field2>
+     <Field3>6.759103E-01</Field3>
+     <Field4>2.369574E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>600</Field1>
+     <Field2>1.148163E+00</Field2>
+     <Field3>6.629035E-01</Field3>
+     <Field4>2.175998E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>601</Field1>
+     <Field2>1.143345E+00</Field2>
+     <Field3>6.498911E-01</Field3>
+     <Field4>1.999179E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>602</Field1>
+     <Field2>1.137685E+00</Field2>
+     <Field3>6.368410E-01</Field3>
+     <Field4>1.837603E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>603</Field1>
+     <Field2>1.130993E+00</Field2>
+     <Field3>6.237092E-01</Field3>
+     <Field4>1.689896E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>604</Field1>
+     <Field2>1.123097E+00</Field2>
+     <Field3>6.104541E-01</Field3>
+     <Field4>1.554815E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>605</Field1>
+     <Field2>1.113846E+00</Field2>
+     <Field3>5.970375E-01</Field3>
+     <Field4>1.431231E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>606</Field1>
+     <Field2>1.103152E+00</Field2>
+     <Field3>5.834395E-01</Field3>
+     <Field4>1.318119E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>607</Field1>
+     <Field2>1.091121E+00</Field2>
+     <Field3>5.697044E-01</Field3>
+     <Field4>1.214548E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>608</Field1>
+     <Field2>1.077902E+00</Field2>
+     <Field3>5.558892E-01</Field3>
+     <Field4>1.119673E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>609</Field1>
+     <Field2>1.063644E+00</Field2>
+     <Field3>5.420475E-01</Field3>
+     <Field4>1.032727E-05</Field4>
+
+   </Record>
+   <Record>
+     <Field1>610</Field1>
+     <Field2>1.048485E+00</Field2>
+     <Field3>5.282296E-01</Field3>
+     <Field4>9.530130E-06</Field4>
+
+   </Record>
+   <Record>
+     <Field1>611</Field1>
+     <Field2>1.032546E+00</Field2>
+     <Field3>5.144746E-01</Field3>
+     <Field4>8.798979E-06</Field4>
+
+   </Record>
+   <Record>
+     <Field1>612</Field1>
+     <Field2>1.015870E+00</Field2>
+     <Field3>5.007881E-01</Field3>
+     <Field4>8.128065E-06</Field4>
+
+   </Record>
+   <Record>
+     <Field1>613</Field1>
+     <Field2>9.984859E-01</Field2>
+     <Field3>4.871687E-01</Field3>
+     <Field4>7.512160E-06</Field4>
+
+   </Record>
+   <Record>
+     <Field1>614</Field1>
+     <Field2>9.804227E-01</Field2>
+     <Field3>4.736160E-01</Field3>
+     <Field4>6.946506E-06</Field4>
+
+   </Record>
+   <Record>
+     <Field1>615</Field1>
+     <Field2>9.617111E-01</Field2>
+     <Field3>4.601308E-01</Field3>
+     <Field4>6.426776E-06</Field4>
+
+   </Record>
+   <Record>
+     <Field1>616</Field1>
+     <Field2>9.424119E-01</Field2>
+     <Field3>4.467260E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>617</Field1>
+     <Field2>9.227049E-01</Field2>
+     <Field3>4.334589E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>618</Field1>
+     <Field2>9.027804E-01</Field2>
+     <Field3>4.203919E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>619</Field1>
+     <Field2>8.828123E-01</Field2>
+     <Field3>4.075810E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>620</Field1>
+     <Field2>8.629581E-01</Field2>
+     <Field3>3.950755E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>621</Field1>
+     <Field2>8.432731E-01</Field2>
+     <Field3>3.828894E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>622</Field1>
+     <Field2>8.234742E-01</Field2>
+     <Field3>3.709190E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>623</Field1>
+     <Field2>8.032342E-01</Field2>
+     <Field3>3.590447E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>624</Field1>
+     <Field2>7.822715E-01</Field2>
+     <Field3>3.471615E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>625</Field1>
+     <Field2>7.603498E-01</Field2>
+     <Field3>3.351794E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>626</Field1>
+     <Field2>7.373739E-01</Field2>
+     <Field3>3.230562E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>627</Field1>
+     <Field2>7.136470E-01</Field2>
+     <Field3>3.108859E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>628</Field1>
+     <Field2>6.895336E-01</Field2>
+     <Field3>2.987840E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>629</Field1>
+     <Field2>6.653567E-01</Field2>
+     <Field3>2.868527E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>630</Field1>
+     <Field2>6.413984E-01</Field2>
+     <Field3>2.751807E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>631</Field1>
+     <Field2>6.178723E-01</Field2>
+     <Field3>2.638343E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>632</Field1>
+     <Field2>5.948484E-01</Field2>
+     <Field3>2.528330E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>633</Field1>
+     <Field2>5.723600E-01</Field2>
+     <Field3>2.421835E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>634</Field1>
+     <Field2>5.504353E-01</Field2>
+     <Field3>2.318904E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>635</Field1>
+     <Field2>5.290979E-01</Field2>
+     <Field3>2.219564E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>636</Field1>
+     <Field2>5.083728E-01</Field2>
+     <Field3>2.123826E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>637</Field1>
+     <Field2>4.883006E-01</Field2>
+     <Field3>2.031698E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>638</Field1>
+     <Field2>4.689171E-01</Field2>
+     <Field3>1.943179E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>639</Field1>
+     <Field2>4.502486E-01</Field2>
+     <Field3>1.858250E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>640</Field1>
+     <Field2>4.323126E-01</Field2>
+     <Field3>1.776882E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>641</Field1>
+     <Field2>4.150790E-01</Field2>
+     <Field3>1.698926E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>642</Field1>
+     <Field2>3.983657E-01</Field2>
+     <Field3>1.623822E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>643</Field1>
+     <Field2>3.819846E-01</Field2>
+     <Field3>1.550986E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>644</Field1>
+     <Field2>3.657821E-01</Field2>
+     <Field3>1.479918E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>645</Field1>
+     <Field2>3.496358E-01</Field2>
+     <Field3>1.410203E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>646</Field1>
+     <Field2>3.334937E-01</Field2>
+     <Field3>1.341614E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>647</Field1>
+     <Field2>3.174776E-01</Field2>
+     <Field3>1.274401E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>648</Field1>
+     <Field2>3.017298E-01</Field2>
+     <Field3>1.208887E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>649</Field1>
+     <Field2>2.863684E-01</Field2>
+     <Field3>1.145345E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>650</Field1>
+     <Field2>2.714900E-01</Field2>
+     <Field3>1.083996E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>651</Field1>
+     <Field2>2.571632E-01</Field2>
+     <Field3>1.025007E-01</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>652</Field1>
+     <Field2>2.434102E-01</Field2>
+     <Field3>9.684588E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>653</Field1>
+     <Field2>2.302389E-01</Field2>
+     <Field3>9.143944E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>654</Field1>
+     <Field2>2.176527E-01</Field2>
+     <Field3>8.628318E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>655</Field1>
+     <Field2>2.056507E-01</Field2>
+     <Field3>8.137687E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>656</Field1>
+     <Field2>1.942251E-01</Field2>
+     <Field3>7.671708E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>657</Field1>
+     <Field2>1.833530E-01</Field2>
+     <Field3>7.229404E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>658</Field1>
+     <Field2>1.730097E-01</Field2>
+     <Field3>6.809696E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>659</Field1>
+     <Field2>1.631716E-01</Field2>
+     <Field3>6.411549E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>660</Field1>
+     <Field2>1.538163E-01</Field2>
+     <Field3>6.033976E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>661</Field1>
+     <Field2>1.449230E-01</Field2>
+     <Field3>5.676054E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>662</Field1>
+     <Field2>1.364729E-01</Field2>
+     <Field3>5.336992E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>663</Field1>
+     <Field2>1.284483E-01</Field2>
+     <Field3>5.016027E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>664</Field1>
+     <Field2>1.208320E-01</Field2>
+     <Field3>4.712405E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>665</Field1>
+     <Field2>1.136072E-01</Field2>
+     <Field3>4.425383E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>666</Field1>
+     <Field2>1.067579E-01</Field2>
+     <Field3>4.154205E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>667</Field1>
+     <Field2>1.002685E-01</Field2>
+     <Field3>3.898042E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>668</Field1>
+     <Field2>9.412394E-02</Field2>
+     <Field3>3.656091E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>669</Field1>
+     <Field2>8.830929E-02</Field2>
+     <Field3>3.427597E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>670</Field1>
+     <Field2>8.281010E-02</Field2>
+     <Field3>3.211852E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>671</Field1>
+     <Field2>7.761208E-02</Field2>
+     <Field3>3.008192E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>672</Field1>
+     <Field2>7.270064E-02</Field2>
+     <Field3>2.816001E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>673</Field1>
+     <Field2>6.806167E-02</Field2>
+     <Field3>2.634698E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>674</Field1>
+     <Field2>6.368176E-02</Field2>
+     <Field3>2.463731E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>675</Field1>
+     <Field2>5.954815E-02</Field2>
+     <Field3>2.302574E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>676</Field1>
+     <Field2>5.564917E-02</Field2>
+     <Field3>2.150743E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>677</Field1>
+     <Field2>5.197543E-02</Field2>
+     <Field3>2.007838E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>678</Field1>
+     <Field2>4.851788E-02</Field2>
+     <Field3>1.873474E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>679</Field1>
+     <Field2>4.526737E-02</Field2>
+     <Field3>1.747269E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>680</Field1>
+     <Field2>4.221473E-02</Field2>
+     <Field3>1.628841E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>681</Field1>
+     <Field2>3.934954E-02</Field2>
+     <Field3>1.517767E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>682</Field1>
+     <Field2>3.665730E-02</Field2>
+     <Field3>1.413473E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>683</Field1>
+     <Field2>3.412407E-02</Field2>
+     <Field3>1.315408E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>684</Field1>
+     <Field2>3.173768E-02</Field2>
+     <Field3>1.223092E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>685</Field1>
+     <Field2>2.948752E-02</Field2>
+     <Field3>1.136106E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>686</Field1>
+     <Field2>2.736717E-02</Field2>
+     <Field3>1.054190E-02</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>687</Field1>
+     <Field2>2.538113E-02</Field2>
+     <Field3>9.775050E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>688</Field1>
+     <Field2>2.353356E-02</Field2>
+     <Field3>9.061962E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>689</Field1>
+     <Field2>2.182558E-02</Field2>
+     <Field3>8.402962E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>690</Field1>
+     <Field2>2.025590E-02</Field2>
+     <Field3>7.797457E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>691</Field1>
+     <Field2>1.881892E-02</Field2>
+     <Field3>7.243230E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>692</Field1>
+     <Field2>1.749930E-02</Field2>
+     <Field3>6.734381E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>693</Field1>
+     <Field2>1.628167E-02</Field2>
+     <Field3>6.265001E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>694</Field1>
+     <Field2>1.515301E-02</Field2>
+     <Field3>5.830085E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>695</Field1>
+     <Field2>1.410230E-02</Field2>
+     <Field3>5.425391E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>696</Field1>
+     <Field2>1.312106E-02</Field2>
+     <Field3>5.047634E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>697</Field1>
+     <Field2>1.220509E-02</Field2>
+     <Field3>4.695140E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>698</Field1>
+     <Field2>1.135114E-02</Field2>
+     <Field3>4.366592E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>699</Field1>
+     <Field2>1.055593E-02</Field2>
+     <Field3>4.060685E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>700</Field1>
+     <Field2>9.816228E-03</Field2>
+     <Field3>3.776140E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>701</Field1>
+     <Field2>9.128517E-03</Field2>
+     <Field3>3.511578E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>702</Field1>
+     <Field2>8.488116E-03</Field2>
+     <Field3>3.265211E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>703</Field1>
+     <Field2>7.890589E-03</Field2>
+     <Field3>3.035344E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>704</Field1>
+     <Field2>7.332061E-03</Field2>
+     <Field3>2.820496E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>705</Field1>
+     <Field2>6.809147E-03</Field2>
+     <Field3>2.619372E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>706</Field1>
+     <Field2>6.319204E-03</Field2>
+     <Field3>2.430960E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>707</Field1>
+     <Field2>5.861036E-03</Field2>
+     <Field3>2.254796E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>708</Field1>
+     <Field2>5.433624E-03</Field2>
+     <Field3>2.090489E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>709</Field1>
+     <Field2>5.035802E-03</Field2>
+     <Field3>1.937586E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>710</Field1>
+     <Field2>4.666298E-03</Field2>
+     <Field3>1.795595E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>711</Field1>
+     <Field2>4.323750E-03</Field2>
+     <Field3>1.663989E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>712</Field1>
+     <Field2>4.006709E-03</Field2>
+     <Field3>1.542195E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>713</Field1>
+     <Field2>3.713708E-03</Field2>
+     <Field3>1.429639E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>714</Field1>
+     <Field2>3.443294E-03</Field2>
+     <Field3>1.325752E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>715</Field1>
+     <Field2>3.194041E-03</Field2>
+     <Field3>1.229980E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>716</Field1>
+     <Field2>2.964424E-03</Field2>
+     <Field3>1.141734E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>717</Field1>
+     <Field2>2.752492E-03</Field2>
+     <Field3>1.060269E-03</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>718</Field1>
+     <Field2>2.556406E-03</Field2>
+     <Field3>9.848854E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>719</Field1>
+     <Field2>2.374564E-03</Field2>
+     <Field3>9.149703E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>720</Field1>
+     <Field2>2.205568E-03</Field2>
+     <Field3>8.499903E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>721</Field1>
+     <Field2>2.048294E-03</Field2>
+     <Field3>7.895158E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>722</Field1>
+     <Field2>1.902113E-03</Field2>
+     <Field3>7.333038E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>723</Field1>
+     <Field2>1.766485E-03</Field2>
+     <Field3>6.811458E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>724</Field1>
+     <Field2>1.640857E-03</Field2>
+     <Field3>6.328287E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>725</Field1>
+     <Field2>1.524672E-03</Field2>
+     <Field3>5.881375E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>726</Field1>
+     <Field2>1.417322E-03</Field2>
+     <Field3>5.468389E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>727</Field1>
+     <Field2>1.318031E-03</Field2>
+     <Field3>5.086349E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>728</Field1>
+     <Field2>1.226059E-03</Field2>
+     <Field3>4.732403E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>729</Field1>
+     <Field2>1.140743E-03</Field2>
+     <Field3>4.404016E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>730</Field1>
+     <Field2>1.061495E-03</Field2>
+     <Field3>4.098928E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>731</Field1>
+     <Field2>9.877949E-04</Field2>
+     <Field3>3.815137E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>732</Field1>
+     <Field2>9.191847E-04</Field2>
+     <Field3>3.550902E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>733</Field1>
+     <Field2>8.552568E-04</Field2>
+     <Field3>3.304668E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>734</Field1>
+     <Field2>7.956433E-04</Field2>
+     <Field3>3.075030E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>735</Field1>
+     <Field2>7.400120E-04</Field2>
+     <Field3>2.860718E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>736</Field1>
+     <Field2>6.880980E-04</Field2>
+     <Field3>2.660718E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>737</Field1>
+     <Field2>6.397864E-04</Field2>
+     <Field3>2.474586E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>738</Field1>
+     <Field2>5.949726E-04</Field2>
+     <Field3>2.301919E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>739</Field1>
+     <Field2>5.535291E-04</Field2>
+     <Field3>2.142225E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>740</Field1>
+     <Field2>5.153113E-04</Field2>
+     <Field3>1.994949E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>741</Field1>
+     <Field2>4.801234E-04</Field2>
+     <Field3>1.859336E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>742</Field1>
+     <Field2>4.476245E-04</Field2>
+     <Field3>1.734067E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>743</Field1>
+     <Field2>4.174846E-04</Field2>
+     <Field3>1.617865E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>744</Field1>
+     <Field2>3.894221E-04</Field2>
+     <Field3>1.509641E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>745</Field1>
+     <Field2>3.631969E-04</Field2>
+     <Field3>1.408466E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>746</Field1>
+     <Field2>3.386279E-04</Field2>
+     <Field3>1.313642E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>747</Field1>
+     <Field2>3.156452E-04</Field2>
+     <Field3>1.224905E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>748</Field1>
+     <Field2>2.941966E-04</Field2>
+     <Field3>1.142060E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>749</Field1>
+     <Field2>2.742235E-04</Field2>
+     <Field3>1.064886E-04</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>750</Field1>
+     <Field2>2.556624E-04</Field2>
+     <Field3>9.931439E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>751</Field1>
+     <Field2>2.384390E-04</Field2>
+     <Field3>9.265512E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>752</Field1>
+     <Field2>2.224525E-04</Field2>
+     <Field3>8.647225E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>753</Field1>
+     <Field2>2.076036E-04</Field2>
+     <Field3>8.072780E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>754</Field1>
+     <Field2>1.938018E-04</Field2>
+     <Field3>7.538716E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>755</Field1>
+     <Field2>1.809649E-04</Field2>
+     <Field3>7.041878E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>756</Field1>
+     <Field2>1.690167E-04</Field2>
+     <Field3>6.579338E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>757</Field1>
+     <Field2>1.578839E-04</Field2>
+     <Field3>6.148250E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>758</Field1>
+     <Field2>1.474993E-04</Field2>
+     <Field3>5.746008E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>759</Field1>
+     <Field2>1.378026E-04</Field2>
+     <Field3>5.370272E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>760</Field1>
+     <Field2>1.287394E-04</Field2>
+     <Field3>5.018934E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>761</Field1>
+     <Field2>1.202644E-04</Field2>
+     <Field3>4.690245E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>762</Field1>
+     <Field2>1.123502E-04</Field2>
+     <Field3>4.383167E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>763</Field1>
+     <Field2>1.049725E-04</Field2>
+     <Field3>4.096780E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>764</Field1>
+     <Field2>9.810596E-05</Field2>
+     <Field3>3.830123E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>765</Field1>
+     <Field2>9.172477E-05</Field2>
+     <Field3>3.582218E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>766</Field1>
+     <Field2>8.579861E-05</Field2>
+     <Field3>3.351903E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>767</Field1>
+     <Field2>8.028174E-05</Field2>
+     <Field3>3.137419E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>768</Field1>
+     <Field2>7.513013E-05</Field2>
+     <Field3>2.937068E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>769</Field1>
+     <Field2>7.030565E-05</Field2>
+     <Field3>2.749380E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>770</Field1>
+     <Field2>6.577532E-05</Field2>
+     <Field3>2.573083E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>771</Field1>
+     <Field2>6.151508E-05</Field2>
+     <Field3>2.407249E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>772</Field1>
+     <Field2>5.752025E-05</Field2>
+     <Field3>2.251704E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>773</Field1>
+     <Field2>5.378813E-05</Field2>
+     <Field3>2.106350E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>774</Field1>
+     <Field2>5.031350E-05</Field2>
+     <Field3>1.970991E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>775</Field1>
+     <Field2>4.708916E-05</Field2>
+     <Field3>1.845353E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>776</Field1>
+     <Field2>4.410322E-05</Field2>
+     <Field3>1.728979E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>777</Field1>
+     <Field2>4.133150E-05</Field2>
+     <Field3>1.620928E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>778</Field1>
+     <Field2>3.874992E-05</Field2>
+     <Field3>1.520262E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>779</Field1>
+     <Field2>3.633762E-05</Field2>
+     <Field3>1.426169E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>780</Field1>
+     <Field2>3.407653E-05</Field2>
+     <Field3>1.337946E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>781</Field1>
+     <Field2>3.195242E-05</Field2>
+     <Field3>1.255038E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>782</Field1>
+     <Field2>2.995808E-05</Field2>
+     <Field3>1.177169E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>783</Field1>
+     <Field2>2.808781E-05</Field2>
+     <Field3>1.104118E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>784</Field1>
+     <Field2>2.633581E-05</Field2>
+     <Field3>1.035662E-05</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>785</Field1>
+     <Field2>2.469630E-05</Field2>
+     <Field3>9.715798E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>786</Field1>
+     <Field2>2.316311E-05</Field2>
+     <Field3>9.116316E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>787</Field1>
+     <Field2>2.172855E-05</Field2>
+     <Field3>8.555201E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>788</Field1>
+     <Field2>2.038519E-05</Field2>
+     <Field3>8.029561E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>789</Field1>
+     <Field2>1.912625E-05</Field2>
+     <Field3>7.536768E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>790</Field1>
+     <Field2>1.794555E-05</Field2>
+     <Field3>7.074424E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>791</Field1>
+     <Field2>1.683776E-05</Field2>
+     <Field3>6.640464E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>792</Field1>
+     <Field2>1.579907E-05</Field2>
+     <Field3>6.233437E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>793</Field1>
+     <Field2>1.482604E-05</Field2>
+     <Field3>5.852035E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>794</Field1>
+     <Field2>1.391527E-05</Field2>
+     <Field3>5.494963E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>795</Field1>
+     <Field2>1.306345E-05</Field2>
+     <Field3>5.160948E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>796</Field1>
+     <Field2>1.226720E-05</Field2>
+     <Field3>4.848687E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>797</Field1>
+     <Field2>1.152279E-05</Field2>
+     <Field3>4.556705E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>798</Field1>
+     <Field2>1.082663E-05</Field2>
+     <Field3>4.283580E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>799</Field1>
+     <Field2>1.017540E-05</Field2>
+     <Field3>4.027993E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>800</Field1>
+     <Field2>9.565993E-06</Field2>
+     <Field3>3.788729E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>801</Field1>
+     <Field2>8.995405E-06</Field2>
+     <Field3>3.564599E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>802</Field1>
+     <Field2>8.460253E-06</Field2>
+     <Field3>3.354285E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>803</Field1>
+     <Field2>7.957382E-06</Field2>
+     <Field3>3.156557E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>804</Field1>
+     <Field2>7.483997E-06</Field2>
+     <Field3>2.970326E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>805</Field1>
+     <Field2>7.037621E-06</Field2>
+     <Field3>2.794625E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>806</Field1>
+     <Field2>6.616311E-06</Field2>
+     <Field3>2.628701E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>807</Field1>
+     <Field2>6.219265E-06</Field2>
+     <Field3>2.472248E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>808</Field1>
+     <Field2>5.845844E-06</Field2>
+     <Field3>2.325030E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>809</Field1>
+     <Field2>5.495311E-06</Field2>
+     <Field3>2.186768E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>810</Field1>
+     <Field2>5.166853E-06</Field2>
+     <Field3>2.057152E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>811</Field1>
+     <Field2>4.859511E-06</Field2>
+     <Field3>1.935813E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>812</Field1>
+     <Field2>4.571973E-06</Field2>
+     <Field3>1.822239E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>813</Field1>
+     <Field2>4.302920E-06</Field2>
+     <Field3>1.715914E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>814</Field1>
+     <Field2>4.051121E-06</Field2>
+     <Field3>1.616355E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>815</Field1>
+     <Field2>3.815429E-06</Field2>
+     <Field3>1.523114E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>816</Field1>
+     <Field2>3.594719E-06</Field2>
+     <Field3>1.435750E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>817</Field1>
+     <Field2>3.387736E-06</Field2>
+     <Field3>1.353771E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>818</Field1>
+     <Field2>3.193301E-06</Field2>
+     <Field3>1.276714E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>819</Field1>
+     <Field2>3.010363E-06</Field2>
+     <Field3>1.204166E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>820</Field1>
+     <Field2>2.837980E-06</Field2>
+     <Field3>1.135758E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>821</Field1>
+     <Field2>2.675365E-06</Field2>
+     <Field3>1.071181E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>822</Field1>
+     <Field2>2.522020E-06</Field2>
+     <Field3>1.010243E-06</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>823</Field1>
+     <Field2>2.377511E-06</Field2>
+     <Field3>9.527779E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>824</Field1>
+     <Field2>2.241417E-06</Field2>
+     <Field3>8.986224E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>825</Field1>
+     <Field2>2.113325E-06</Field2>
+     <Field3>8.476168E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>826</Field1>
+     <Field2>1.992830E-06</Field2>
+     <Field3>7.996052E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>827</Field1>
+     <Field2>1.879542E-06</Field2>
+     <Field3>7.544361E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>828</Field1>
+     <Field2>1.773083E-06</Field2>
+     <Field3>7.119624E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>829</Field1>
+     <Field2>1.673086E-06</Field2>
+     <Field3>6.720421E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+   <Record>
+     <Field1>830</Field1>
+     <Field2>1.579199E-06</Field2>
+     <Field3>6.345380E-07</Field3>
+     <Field4>0.000000E+00</Field4>
+
+   </Record>
+ </Records>
+ </Root>
